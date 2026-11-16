@@ -39,36 +39,29 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ROBO-WORLD-RB&show_icons=true&hide_border=true&bg_color=202321&title_color=8abe07&icon_color=8abe07&text_color=f4f1ea&rank_icon=github&include_all_commits=true" alt="GitHub stats for ROBO-WORLD-RB" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ROBO-WORLD-RB&layout=compact&hide_border=true&bg_color=202321&title_color=8abe07&text_color=f4f1ea&langs_count=8" alt="Most used languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ROBO-WORLD-RB&theme=github_dark" alt="Profile details and contribution chart for ROBO-WORLD-RB" width="100%" />
 
-<img src="https://streak-stats.demolab.com?user=ROBO-WORLD-RB&hide_border=true&background=202321&ring=8abe07&fire=8abe07&currStreakLabel=8abe07&sideLabels=f4f1ea&currStreakNum=f4f1ea&sideNums=f4f1ea&dates=a9aba6" alt="Contribution streak" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ROBO-WORLD-RB&theme=github_dark" alt="GitHub stats" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ROBO-WORLD-RB&theme=github_dark" alt="Repositories per language" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ROBO-WORLD-RB&bg_color=202321&color=8abe07&line=8abe07&point=f4f1ea&area=true&hide_border=true" alt="Contribution activity graph" width="100%" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ROBO-WORLD-RB&theme=github_dark" alt="Most committed languages" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ROBO-WORLD-RB&theme=github_dark&utcOffset=0" alt="Most productive hours" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=ROBO-WORLD-RB&theme=darkhub&no-frame=true&no-bg=true&column=6&margin-w=8" alt="GitHub trophies" />
+<img src="https://streak-stats.demolab.com?user=ROBO-WORLD-RB&hide_border=true&background=0d1117&ring=8abe07&fire=8abe07&currStreakLabel=8abe07&sideLabels=f4f1ea&currStreakNum=f4f1ea&sideNums=f4f1ea&dates=a9aba6" alt="Contribution streak" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ROBO-WORLD-RB&bg_color=0d1117&color=8abe07&line=8abe07&point=f4f1ea&area=true&hide_border=true" alt="Contribution activity graph" width="100%" />
+
+<img src="https://github-trophies.vercel.app/?username=ROBO-WORLD-RB&theme=darkhub&no-frame=true&no-bg=true&column=6&margin-w=8" alt="GitHub trophies" />
 
 </div>
 
 ## Featured projects
 
-<div align="center">
-
-<a href="https://github.com/ROBO-WORLD-RB/VOICE-FIRST-AGENT-DESIGN"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ROBO-WORLD-RB&repo=VOICE-FIRST-AGENT-DESIGN&hide_border=true&bg_color=202321&title_color=8abe07&icon_color=8abe07&text_color=f4f1ea" alt="VOICE-FIRST-AGENT-DESIGN" /></a>
-<a href="https://github.com/ROBO-WORLD-RB/AI-FOR-GOOD"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ROBO-WORLD-RB&repo=AI-FOR-GOOD&hide_border=true&bg_color=202321&title_color=8abe07&icon_color=8abe07&text_color=f4f1ea" alt="AI-FOR-GOOD" /></a>
-
-<a href="https://github.com/ROBO-WORLD-RB/awesome-ghana-tech"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ROBO-WORLD-RB&repo=awesome-ghana-tech&hide_border=true&bg_color=202321&title_color=8abe07&icon_color=8abe07&text_color=f4f1ea" alt="awesome-ghana-tech" /></a>
-<a href="https://github.com/ROBO-WORLD-RB/BudgetUP"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ROBO-WORLD-RB&repo=BudgetUP&hide_border=true&bg_color=202321&title_color=8abe07&icon_color=8abe07&text_color=f4f1ea" alt="BudgetUP" /></a>
-
-</div>
-
-## Contribution snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ROBO-WORLD-RB/ROBO-WORLD-RB/output/github-contribution-grid-snake-dark.svg" />
-    <img src="https://raw.githubusercontent.com/ROBO-WORLD-RB/ROBO-WORLD-RB/output/github-contribution-grid-snake.svg" alt="Snake animation eating my contribution graph" />
-  </picture>
-</div>
+| Project | What it is |
+|---|---|
+| [VOICE-FIRST-AGENT-DESIGN](https://github.com/ROBO-WORLD-RB/VOICE-FIRST-AGENT-DESIGN) | Design work on voice-first AI agents |
+| [AI-FOR-GOOD](https://github.com/ROBO-WORLD-RB/AI-FOR-GOOD) | Machine learning notebooks |
+| [awesome-ghana-tech](https://github.com/ROBO-WORLD-RB/awesome-ghana-tech) | A curated list of technology resources, companies, communities and events in Ghana |
+| [BudgetUP](https://github.com/ROBO-WORLD-RB/BudgetUP) | Your personal finance tool |
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8abe07,100:202321&height=100&section=footer" alt="" width="100%" />
